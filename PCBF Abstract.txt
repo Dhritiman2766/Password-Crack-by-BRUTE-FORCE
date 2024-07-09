@@ -1,0 +1,13 @@
+This Python script allows users to attempt to gain access to password-protected Word documents (.docx) and Excel spreadsheets (.xlsx). By providing the directory path of the file and a text file containing a list of potential passwords, users can try to decrypt the file.
+
+Usage Instructions
+Clone this repository or download the script file to your local machine.
+
+Open a terminal or command prompt.
+
+Navigate to the directory where the script file is located.
+
+Run the script using the following command.
+
+Important Note
+This script is intended for educational purposes only, to demonstrate the concept of brute force attacks on password-protected files. Unauthorized attempts to crack passwords are illegal and unethical. Use this script responsibly, respecting the privacy and security of others. Always obtain proper consent before attempting to access someone else's files.
